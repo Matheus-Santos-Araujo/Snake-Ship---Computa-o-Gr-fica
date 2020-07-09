@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.haml": "yaml",
+        "vector": "cpp"
+    }
+}
